@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ej2-blazor-source-BLAZ-18138-test-dev\Syncfusion.Blazor\Syncfusion.Blazor.csproj" />
+  </ItemGroup>
+
+</Project>
